@@ -99,6 +99,23 @@ These results describe the sample dataset. They do not, by themselves, establish
 - `ShopSmart_SQL_Analysis.sql` — SQL queries used for the analysis.
 - `README.md` — project overview, methods, verified findings, and recommendations.
 
+## Screenshots
+
+### Order status
+![Order status](screenshots/order_status.png)
+
+### Delivered revenue by month
+![Delivered revenue by month](screenshots/monthly_revenue.png)
+
+### Delivered revenue by product
+![Delivered revenue by product](screenshots/product_revenue.png)
+
+### Delivered revenue by city
+![Delivered revenue by city](screenshots/city_revenue.png)
+
+### Delivered revenue by customer
+![Delivered revenue by customer](screenshots/customer_revenue.png)
+
 ## How to Run
 1. Install MySQL and MySQL Workbench.
 2. Open `ShopSmart_SQL_Analysis.sql` in MySQL Workbench.
