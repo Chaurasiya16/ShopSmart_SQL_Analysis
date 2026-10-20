@@ -98,7 +98,12 @@ These results describe the sample dataset. They do not, by themselves, establish
 ## Project Files
 - `ShopSmart_SQL_Analysis.sql` — SQL queries used for the analysis.
 - `README.md` — project overview, methods, verified findings, and recommendations.
-- `screenshots/` — screenshots of selected queries and results.
+
+## How to Run
+1. Install MySQL and MySQL Workbench.
+2. Open `ShopSmart_SQL_Analysis.sql` in MySQL Workbench.
+3. Run the script from top to bottom. It creates the `ShopSmart` database, the three tables, and the sample data, and then runs the analysis queries.
+4. Compare the query results with the tables in this README.
 
 ## Notes and Limitations
 - This is a fictional practice dataset with 8 customers, 8 products, and 20 orders.
