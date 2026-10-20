@@ -102,19 +102,19 @@ These results describe the sample dataset. They do not, by themselves, establish
 ## Screenshots
 
 ### Order status
-![Order status](screenshots/order_status.png)
+![Order status](https://github.com/Chaurasiya16/ShopSmart_SQL_Analysis/blob/main/order_status.png)
 
 ### Delivered revenue by month
-![Delivered revenue by month](screenshots/monthly_revenue.png)
+![Delivered revenue by month](https://github.com/Chaurasiya16/ShopSmart_SQL_Analysis/blob/main/monthly_revenue.png)
 
 ### Delivered revenue by product
-![Delivered revenue by product](screenshots/product_revenue.png)
+![Delivered revenue by product](https://github.com/Chaurasiya16/ShopSmart_SQL_Analysis/blob/main/product_revenue.png)
 
 ### Delivered revenue by city
-![Delivered revenue by city](screenshots/city_revenue.png)
+![Delivered revenue by city](https://github.com/Chaurasiya16/ShopSmart_SQL_Analysis/blob/main/city_revenue.png)
 
 ### Delivered revenue by customer
-![Delivered revenue by customer](screenshots/customer_revenue.png)
+![Delivered revenue by customer](https://github.com/Chaurasiya16/ShopSmart_SQL_Analysis/blob/main/customer_revenue.png)
 
 ## How to Run
 1. Install MySQL and MySQL Workbench.
