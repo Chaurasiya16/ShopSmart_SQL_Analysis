@@ -140,7 +140,7 @@ WHERE O.Order_Status = 'Delivered'
 GROUP BY 
          MONTH(O.Order_Date),
          MONTHNAME(O.Order_Date)
-ORDER BY MONTH(O.Order_Date) DESC;
+ORDER BY MONTH(O.Order_Date) ASC;
 
 /*Business Question 6 : count delivered orders in each month.*/
 SELECT
@@ -180,8 +180,7 @@ JOIN Products P
   ON O.Product_ID = P.Product_ID
 WHERE O.Order_Status = 'Delivered'
 GROUP BY C.Customer_Name
-ORDER BY Total_Revenue DESC
-LIMIT 1;
+ORDER BY Total_Revenue DESC;
 
 /* Business Question 9 :how many orders are still pending or have been cancelled. */
 SELECT Order_Status, COUNT(*) AS Total_Orders
